@@ -1,4 +1,4 @@
-#AluGames Project
+# AluGames Project
 
 This project was developed through the Alura development course, wich i learned how to:
 
