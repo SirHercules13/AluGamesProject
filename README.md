@@ -1,6 +1,6 @@
 # AluGames Project
 
-This project was developed through the Alura development course, wich i learned how to:
+This project was developed through the Alura development course, wich I learned how to:
 
 - Analyze the code of an HTML page to understand its structure and plan the code for its functionality;
 - Retrieve page elements with JavaScript, using the functions `document.querySelector()` and `document.getElementById()`;
